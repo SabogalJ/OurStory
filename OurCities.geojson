@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::54030" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 6, "City": "Samara", "Year": 2008 }, "geometry": { "type": "Point", "coordinates": [ -8043968.220386859029531, 1057063.943017414072528 ] } },
+{ "type": "Feature", "properties": { "id": 7, "City": "Geneva", "Year": 2010 }, "geometry": { "type": "Point", "coordinates": [ 516632.17704458348453, 4937070.542888170108199 ] } },
+{ "type": "Feature", "properties": { "id": 8, "City": "Denver", "Year": 2012 }, "geometry": { "type": "Point", "coordinates": [ -9151273.831501465290785, 4247797.698652667924762 ] } },
+{ "type": "Feature", "properties": { "id": 1, "City": "Bogota", "Year": 1985 }, "geometry": { "type": "Point", "coordinates": [ -6987793.439341844059527, 504987.828346533467993 ] } },
+{ "type": "Feature", "properties": { "id": 3, "City": "Nairobi", "Year": 1994 }, "geometry": { "type": "Point", "coordinates": [ 3478012.160245594102889, -133806.443580356426537 ] } },
+{ "type": "Feature", "properties": { "id": 2, "City": "Lewistown", "Year": 1987 }, "geometry": { "type": "Point", "coordinates": [ -9148688.908720659092069, 5021894.641075542196631 ] } },
+{ "type": "Feature", "properties": { "id": 5, "City": "Swarthmore", "Year": 2006 }, "geometry": { "type": "Point", "coordinates": [ -6564224.528942842967808, 4266277.412797629833221 ] } },
+{ "type": "Feature", "properties": { "id": 4, "City": "Ottawa", "Year": 2003 }, "geometry": { "type": "Point", "coordinates": [ -6393180.357410103082657, 4849728.882847173139453 ] } }
+]
+}
